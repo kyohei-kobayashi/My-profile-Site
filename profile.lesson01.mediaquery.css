@@ -2,10 +2,17 @@
 /* max-width: 1000px */
 
 @media (max-width: 1000px) {
+    .my-ride {
+        margin-bottom: 160px;
+    
+    }
 
     .my-ride-contents li {
         align-items: center;
         width: 48%;
+        padding-bottom: 20px;
+        margin-bottom: 80px;
+        border-bottom: 1px solid rgb(99, 98, 98);
     
     }
 }
