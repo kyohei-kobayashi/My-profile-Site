@@ -1,3 +1,4 @@
+
 body {
     background-color: rgb(224, 224, 224);
     padding: 0;
@@ -75,9 +76,6 @@ img {
     opacity: 0.7;
 }
 
-
-
-
 /* main warrper */
 .main {
     padding-top: 100px;
@@ -119,7 +117,7 @@ img {
     
 }
 
-/* My ride wrapper */
+/* My ride blog wrapper */
 .my-ride {
     padding-top: 100px;
     margin-bottom: 250px;
@@ -130,8 +128,8 @@ img {
 
 .my-ride ul {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
+    flex-wrap: wrap;
     padding-right: 40px;
 
 }
@@ -139,24 +137,6 @@ img {
 .my-ride-contents li {
     align-items: center;
     width: 24%;
-
-}
-
-@media (max-width: 1000px) {
-    .my-ride-contents li {
-        align-items: center;
-        width: 48%;
-    
-    }
-}
-
-@media (max-width: 670px) {
-    .my-ride-contents li {
-        align-items: center;
-        width: 96%;
-        margin-top: 60px;
-    
-    }
 
 }
 
