@@ -34,7 +34,7 @@
     .header h1 {
         background-color: rgba(107, 142, 35, 0.9);
         margin-left: 10px;
-        font-size: 20px;
+        font-size: 18px;
         padding: 5px 26px;
     }
 
@@ -45,7 +45,7 @@
     }
 
     .header li {
-        font-size: 10px;
+        font-size: 8px;
         padding-left: 15px;
 
     }
